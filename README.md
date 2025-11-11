@@ -9,7 +9,7 @@
 
 **Infra and Tools**
 ---
-![VisualStudioCode](https://img.shields.io/badge/Visualstudio code-000000.svg?&style=for-the-badge)
+![VisualStudioCode](https://img.shields.io/badge/Visual_studio_code-000000.svg?&style=for-the-badge)
 ![Zoom](https://img.shields.io/badge/zoom-0B5CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) 
 ![Sourcetree](https://img.shields.io/badge/sourcetree-0052CC.svg?&style=for-the-badge&logo=sourcetree&logoColor=white) 
