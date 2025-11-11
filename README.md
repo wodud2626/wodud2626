@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EB%B0%95%EC%9E%AC%EC%98%81%EC%9E%85%EB%8B%88%EB%8B%A4&fontSize=69&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
 
+프론트 엔드 개발을 꿈꾸는 박재영 입니다.
+
 **Lang and Frameworks**
 ---
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
@@ -19,5 +21,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wodud2626&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=wodud2626&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wodud2626&radius=16&theme=graywhite&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
