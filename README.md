@@ -3,3 +3,6 @@
 [![Hits](https://hits.sh/github.com/wodud2626.svg?style=plastic&color=1159cc)](https://hits.sh/github.com/wodud2626/)
 
 [![jea Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodud2626)](https://github.com/wodud2626)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
