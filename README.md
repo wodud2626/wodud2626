@@ -18,10 +18,6 @@
 ![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wodud2626&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=wodud2626&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ## Contact
 
